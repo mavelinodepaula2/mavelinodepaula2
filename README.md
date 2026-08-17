@@ -37,18 +37,19 @@
 ### 📌 Projetos em destaque
 
 - **[contador-tkinter](https://github.com/mavelinodepaula2/contador-tkinter)** — GUI de contador feita em Python com Tkinter
-
+- 🏆 *ScoreHub* — site de esportes em desenvolvimento (identidade visual, layout e funcionalidades)
+- 🤖 Automações com **n8n** — workflows de IA para atendimento e resposta automática
 
 ---
 
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mavelinodepaula2&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mavelinodepaula2&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavelinodepaula2" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavelinodepaula2" alt="Sequência de contribuições" />
 </p>
 
 ---
