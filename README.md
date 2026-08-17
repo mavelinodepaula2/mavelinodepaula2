@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
-<!--
-**mavelinodepaula2/mavelinodepaula2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de TI | Desenvolvedor em formação | Construindo projetos e aprendendo na prática
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Estudando-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco-Backend%20%26%20Automação-blue?style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Sobre mim
+
+- 🎓 Estudante de **Tecnologia da Informação** na **UNASP** (Centro Universitário Adventista de São Paulo)
+- 💡 Construindo portfólio através de **projetos pessoais** enquanto busco minha primeira oportunidade na área
+- 🛠️ Gosto de automação, back-end e explorar como diferentes ferramentas se conectam
+- 📍 Brasil
+
+---
+
+### 🚀 Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+- **[contador-tkinter](https://github.com/mavelinodepaula2/contador-tkinter)** — GUI de contador feita em Python com Tkinter
+
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mavelinodepaula2&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mavelinodepaula2" alt="GitHub streak" />
+</p>
+
+---
+
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="https://github.com/mavelinodepaula2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Adicione LinkedIn ou e-mail aqui, se quiser -->
+</p>
+
+---
+
+<p align="center"><i>Aberto a oportunidades na área de TI 🚀</i></p>
